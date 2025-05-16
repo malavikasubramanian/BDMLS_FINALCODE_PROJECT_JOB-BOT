@@ -49,7 +49,7 @@ JOBOT/
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:malavikasubramanian/BDMLS_FINALCODE_PROJECT_JOB-BOT.git
+git clone https://github.com/malavikasubramanian/BDMLS_FINALCODE_PROJECT_JOB-BOT.git
 cd JOBOT
 
 ```
